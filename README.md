@@ -4,5 +4,5 @@
 WEEK 1
 - Ubuntu 20.04 Installation: Completed
 - Hackerrank Python 5 Stars: Completed
-Week 2
+WEEK 2
 - Currently doing Numpy, Pandas, Matplotlib
